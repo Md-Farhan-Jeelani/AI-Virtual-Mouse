@@ -3,9 +3,9 @@ I have created an AI based Mouse Controller. It will first detect the hand landm
 # Language:
 PYTHON
 # Libraries
-OpenCV
+OpenCV,
 Mediapipe
 # Platforms
-Windows
-Mac OS
+Windows,
+Mac OS,
 Web
